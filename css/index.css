@@ -80,21 +80,32 @@ header{
 .jumbohomepic{
     display: flex;
     justify-content: center;
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
 }
 .jumboaboutpic{
     display: flex;
     justify-content: center;
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
 }
 .links{
     width:60%;
     display:flex;
     justify-content:space-evenly;
   }
-  
+/*manipulated nav/body*/
+nav {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+ 
 nav a{
     letter-spacing:3px;
     text-decoration:none;
     color:black;
+    margin-left: 10%;
+    margin-top:5% ;
   }
   nav a:hover{
     color:grey;
