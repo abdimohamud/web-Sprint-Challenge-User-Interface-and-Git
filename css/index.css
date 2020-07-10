@@ -99,12 +99,13 @@ nav a{
   nav a:hover{
     color:grey;
   }
-/*updated with header and nav*/
-/*about page updated css*/
-.jumboaboutpic{
+  .jumboaboutpic{
     display: flex;
     justify-content: center;
 }
+/*updated with header and nav*/
+/*about page updated css*/
+
 .container {
     width: 800px;
     margin: 0 auto;
@@ -184,3 +185,5 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* about css*/
